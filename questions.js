@@ -381,7 +381,7 @@ questions = [
     },
 //small government vs anarchy
     {
-        "question": "A strong government is required for a safe society.",
+        "question": "Wihtout a government people will fall back to their primal instincts.",
         "i18n": {
         },
         "effect": {
@@ -395,7 +395,7 @@ questions = [
         }
     },
     {
-        "question": "A Good Leader should have the ability to pass on the throne to their family members.",
+        "question": "No stateless society can last.",
         "i18n": {
         },
         "effect": {
@@ -423,7 +423,7 @@ questions = [
         }
     },
     {
-        "question": "The leader should be passed on genetically.",
+        "question": "Some state is needed to retain order.",
         "i18n": {
         },
         "effect": {
@@ -437,7 +437,7 @@ questions = [
         }
     },
     {
-        "question": "A federal state gives more power to the individual, which is beneficial to the nation.",
+        "question": "By  definition, a state is an oppresive institution.",
         "i18n": {
         },
         "effect": {
@@ -465,7 +465,7 @@ questions = [
         }
     },
     {
-        "question": "I would rather have a totalitarian government than an anarchist one.",
+        "question": "I would rather have a corrupt government than an anarchist one.",
         "i18n": {
         },
         "effect": {
@@ -479,7 +479,7 @@ questions = [
         }
     },
     {
-        "question": "Democratic systems ultimately turn into a 2-Party system, which is not beneficial for anyone.",
+        "question": "Anarchy creates a power vacuum all too easy to fill.",
         "i18n": {
         },
         "effect": {
@@ -493,7 +493,7 @@ questions = [
         }
     },
     {
-        "question": "I would rather have a constitutional monarchy than an absolute monarchy.",
+        "question": "Anarchy is the only way to truley gurantee liberty.",
         "i18n": {
         },
         "effect": {
@@ -507,7 +507,7 @@ questions = [
         }
     },
      {
-        "question": "The rule of a selfless dictator is ideal for me.",
+        "question": "Without any rulers people wil be lost.",
         "i18n": {
         },
         "effect": {
@@ -521,7 +521,7 @@ questions = [
         }
     },
     {
-        "question": "I would rather choose democracy over dictatorship.",
+        "question": "No small state can last as all states will try to grow their power.",
         "i18n": {
         },
         "effect": {
@@ -534,7 +534,7 @@ questions = [
             "g": 0
         }
     },
-//objectivism vs relatvism
+//internationalism vs nationalism
     {
         "question": "My nation's ideals are better than most other nation's ideals.",
         "i18n": {
@@ -592,7 +592,7 @@ questions = [
         }
     },
     {
-        "question": "We should focus more on issues outside of our nation.",
+        "question": "We should focus on threats across the world.",
         "i18n": {
         },
         "effect": {
@@ -634,7 +634,7 @@ questions = [
         }
     },
      {
-        "question": "Immigration should be easier than it is now.",
+        "question": "Immigration should be harder than it is now.",
         "i18n": {
         },
         "effect": {
@@ -929,9 +929,9 @@ questions = [
             "g": 0
         }
     },
-//Race vs Equality
+//Conservative vs Progressive
     {
-        "question": "Race is the ultimate difference between humans.",
+        "question": "Traditional values are ideal in society.",
         "i18n": {
         },
         "effect": {
@@ -945,7 +945,7 @@ questions = [
         }
     },
     {
-        "question": "Ethnic Nationalism is a dangerous ideology.",
+        "question": "The idea of the gender binary and biolgical gender is an oppresive institution.",
         "i18n": {
         },
         "effect": {
@@ -959,7 +959,7 @@ questions = [
         }
     },
     {
-        "question": "We should judge people by their character rather than their race.",
+        "question": "Heteronormativity is degrading to society.",
         "i18n": {
         },
         "effect": {
@@ -973,7 +973,7 @@ questions = [
         }
     },
     {
-        "question": "The Nazi regime of Germany has taught us to not judge anybody by their race.",
+        "question": "The nuclear family is the best model we have found.",
         "i18n": {
         },
         "effect": {
@@ -987,7 +987,7 @@ questions = [
         }
     },
     {
-        "question": "Unrest within certain regions of Africa is mainly caused by racial difference.",
+        "question": "Homosexuality is degrading to the family unit.",
         "i18n": {
         },
         "effect": {
@@ -1001,7 +1001,7 @@ questions = [
         }
     },
     {
-        "question": "Racism will always exist within society, so there's no point at trying to 'fix' Racism.",
+        "question": "Ones gender is directly tied to there biological sex.",
         "i18n": {
         },
         "effect": {
@@ -1015,7 +1015,7 @@ questions = [
         }
     },
     {
-        "question": "Affirmative action should not be considered 'Racism'.",
+        "question": "Hedonism is a corrosive force which brings down society.",
         "i18n": {
         },
         "effect": {
