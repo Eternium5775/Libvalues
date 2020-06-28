@@ -33,7 +33,7 @@
     <img id="img-reform" src="value_images/reform.png" height="128pt"/>
     <div class="bar reform" id="bar-reform"><div class="text-wrapper" id="reform">
 	</div></div>
-    <div class="bar preserve" id="bar-preserve"><div class="text-wrapper" id="preserve"></div></div>
+    <div class="bar insurrection" id="bar-insurrection"><div class="text-wrapper" id="insurrection"></div></div>
     <img id="img-preserve" src="value_images/preserve.png" height="128pt"/>
 </div>
 <h2><span class="weight-300" id="b-label"></span></h2>
@@ -157,7 +157,7 @@
 	equality = (100 - race).toFixed(1)
 
     setBarValue("reform", reform)
-    setBarValue("preserve", preserve)
+    setBarValue("insurrection", preserve)
     setBarValue("market", market)
     setBarValue("stateown", stateown)
     setBarValue("central", central)
@@ -242,7 +242,7 @@
 
         img = document.getElementById("img-reform")
         ctx.drawImage(img, 20, 170, 100, 100);
-        img = document.getElementById("img-preserve")
+        img = document.getElementById("img-insurrection")
         ctx.drawImage(img, 680, 170, 100, 100)
         img = document.getElementById("img-stateown")
         ctx.drawImage(img, 20, 290, 100, 100)
