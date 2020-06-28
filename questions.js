@@ -1,11 +1,11 @@
 questions = [
-    //preserve (Conserve) vs Reform 
+    //Insurrection vs Reform 
     {
-        "question": "Culturally Right-Wing parties generally fits my views.",
+        "question": "Violence is necessary to effectibely create change.",
         "i18n": {
         },
         "effect": {
-            "a": -5,
+            "a": 5,
             "b": 0,
             "c": 0,
             "d": 0,
@@ -29,7 +29,21 @@ questions = [
         }
     },
     {
-        "question": "A crackdown of pornography is beneficial to society.",
+        "question": "Violence is justifiable in creating social change.",
+        "i18n": {
+        },
+        "effect": {
+            "a": 5,
+            "b": 0,
+            "c": 0,
+            "d": 0,
+            "e": 0,
+            "f": 0,
+            "g": 0
+        }
+    },
+    {
+        "question": "THose who disagree with me should be convinced through consversation.",
         "i18n": {
         },
         "effect": {
@@ -43,25 +57,11 @@ questions = [
         }
     },
     {
-        "question": "Weed should be legalized.",
+        "question": "All change can be made through the systems we have in place.",
         "i18n": {
         },
         "effect": {
-            "a": 5,
-            "b": 0,
-            "c": 0,
-            "d": 0,
-            "e": 0,
-            "f": 0,
-            "g": 0
-        }
-    },
-    {
-        "question": "The legalization of abortion is beneficial.",
-        "i18n": {
-        },
-        "effect": {
-            "a": 5,
+            "a": -5,
             "b": 0,
             "c": 0,
             "d": 0,
@@ -113,7 +113,7 @@ questions = [
         }
     },
     {
-        "question": "Reforming in a quick manner often leads to the worsening of people's lives.",
+        "question": "Rapid change often leads to the worsening of people's lives.",
         "i18n": {
         },
         "effect": {
@@ -127,7 +127,7 @@ questions = [
         }
     },
     {
-        "question": "I support (Third/Fourth) Wave Feminism.",
+        "question": "I support violent movements such as antifa.",
         "i18n": {
         },
         "effect": {
@@ -141,7 +141,7 @@ questions = [
         }
     },
      {
-        "question": "The LGBT movement deserves more respect.",
+        "question": "The opressed have the duty to fight against their opressors.",
         "i18n": {
         },
         "effect": {
@@ -155,7 +155,7 @@ questions = [
         }
     },
     {
-        "question": "Liberalism in modern times has dissent into Post-Modernism.",
+        "question": "Those who use violence for change are just as bad as the dictators",
         "i18n": {
         },
         "effect": {
@@ -168,7 +168,7 @@ questions = [
             "g": 0
         }
     },
-//Stateown vs Market
+//commune vs market
     {
         "question": "A Laissez-Faire economy causes monopolies to form, and worsens class divide.",
         "i18n": {
@@ -212,7 +212,7 @@ questions = [
         }
     },
     {
-        "question": "Economic regulation reduces the positive benefits of Capitalism.",
+        "question": "Socialism and communism artificially determine value and thus are prone to failure.",
         "i18n": {
         },
         "effect": {
@@ -240,7 +240,7 @@ questions = [
         }
     },
     {
-        "question": "The gain of corporations directly correlate to the gain of the individual.",
+        "question": "Wage slavery does not exist as the employee and employer mutually agree to the terms of their relationship.",
         "i18n": {
         },
         "effect": {
@@ -254,7 +254,7 @@ questions = [
         }
     },
     {
-        "question": "We should have a minimal government alongside a fully functional market.",
+        "question": "A stateless and free society ensures market sucess and prosperity.",
         "i18n": {
         },
         "effect": {
@@ -268,7 +268,7 @@ questions = [
         }
     },
     {
-        "question": "It is necessary for the government to intervene in the economy to protect its consumers.",
+        "question": "Capitalism is exploitation of the worker by the employer.",
         "i18n": {
         },
         "effect": {
@@ -282,7 +282,7 @@ questions = [
         }
     },
     {
-        "question": "Oppression by corporations is more of a concern than oppression by governments.",
+        "question": "Cooperatives are preferable to corporations.",
         "i18n": {
         },
         "effect": {
@@ -296,7 +296,7 @@ questions = [
         }
     },
     {
-        "question": "We need to have more welfare compared to what we have currently.",
+        "question": "Capitalism is the cause of the current suffering in 3rd world nations.",
         "i18n": {
         },
         "effect": {
@@ -310,7 +310,7 @@ questions = [
         }
     },
     {
-        "question": "We should increase taxxes in exchange for better welfare.",
+        "question": "Marxist economics are preferable to the free market.",
         "i18n": {
         },
         "effect": {
@@ -324,7 +324,7 @@ questions = [
         }
     },
     {
-        "question": "Insurance should be used by the individual, voluntarily, rather than welfare.",
+        "question": "The free market provides a necessary outlet for human nature.",
         "i18n": {
         },
         "effect": {
@@ -338,7 +338,7 @@ questions = [
         }
     },
     {
-        "question": "Everyone should have free quality healthcare.",
+        "question": "Incruing wealth based off of land is unjust.",
         "i18n": {
         },
         "effect": {
@@ -352,7 +352,7 @@ questions = [
         }
     },
     {
-        "question": "A regulation-free economy does not work practically.",
+        "question": "Inheritance is not a legitimate form of wealth.",
         "i18n": {
         },
         "effect": {
@@ -366,7 +366,7 @@ questions = [
         }
     },
     {
-        "question": "Individualism is what powers society, and we should embrace it.",
+        "question": "A classless society is ideal.",
         "i18n": {
         },
         "effect": {
@@ -379,7 +379,7 @@ questions = [
             "g": 0
         }
     },
-//Central (Authority) vs Decentral (Liberty)
+//small government vs anarchy
     {
         "question": "A strong government is required for a safe society.",
         "i18n": {
@@ -534,7 +534,7 @@ questions = [
             "g": 0
         }
     },
-//Nation (Morality) vs World (Peace)
+//objectivism vs relatvism
     {
         "question": "My nation's ideals are better than most other nation's ideals.",
         "i18n": {
